@@ -1,0 +1,2 @@
+Please use a real password file. You can find the mentioned rockyou.txt file all over the Internet and also in security related Linux distributions. 
+
